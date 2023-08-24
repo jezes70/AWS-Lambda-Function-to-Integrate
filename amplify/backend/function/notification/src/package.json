@@ -17,6 +17,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@aws-sdk/client-ses": "^3.395.0",
     "@aws-sdk/client-sns": "^3.391.0",
     "@aws-sdk/client-sqs": "^3.391.0",
     "dotenv": "^16.3.1",
